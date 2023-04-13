@@ -13,14 +13,14 @@
 * [ANALYZE](#analyze)
 * [ACT](#act)
 
-## 1. SCENARIO
+## SCENARIO
 You are on the data science team for a coffee company that is looking to expand their business into Ukraine. They want to get an understanding of the existing coffee shop market there.
 
 You have a dataset from Google businesses. It contains information about coffee shops in Ukraine. The marketing manager wants to identify the key coffee shop segments. They will use this to construct their marketing plan. In their current location, they split the market into 5 segments. The marketing manager wants to know how many segments are in this new market, and their key features.
 
 You will be presenting your findings to the Marketing Manager, who has no data science background.
 
-## 2. ASK
+## ASK
 - Question:
 
 1. Compare which city has the most rating and reviews.
@@ -29,7 +29,7 @@ You will be presenting your findings to the Marketing Manager, who has no data s
 4. Compare Reviews of Place Type when it comes to Takeout options.
 5. How many shops provides all services, delivery, dine-in, and takeout options.
 
-## 3. PREPARE
+## PREPARE
 Dataset: https://www.kaggle.com/datasets/dimitryzub/10-coffee-places-from-ukrainian-cities?select=Ukraine+Cities+Coffee+Shops+Analysis+-+Main.csv
 
 **Region**: Region where coffee shop is located<br>
@@ -68,7 +68,7 @@ df.head(10)
 |Mariupol|	LENЬ. Coffee & desserts.|	Coffee shop |	4.8   |	125.0  |	$$    |	True           |	True	        |True           |
 
 
-## 4. Process
+## Process
 First We had load and print the top five rows of our Dataset in the above cell. Then to get to more information on our data about the dataset
 
 ```python
@@ -177,7 +177,7 @@ memory usage: 11.8+ KB
 ```
 
 
-## 5. ANALYZE
+## ANALYZE
 We will now perform a descriptive analysis of the data
 
 Before we begin the analysis, it is a good idea to review basic descriptive statistics about the data.
@@ -408,7 +408,7 @@ But when looking at the ratings of cities, we can see that Mariupol has the high
 
 This means that the Delivery option, Dine in option and Takeout option are related to the Rating of the store.
 
-## 6. ACT
+## ACT
 For the last step in the data analysis process, we will make three recommendations. But first, we'll lay out three key insights.
 
 #### Key Findings:
