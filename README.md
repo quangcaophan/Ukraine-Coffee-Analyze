@@ -244,7 +244,7 @@ sns.despine()
 ```
 
 <p align="center">
-  <img src="/IMG/1.png">
+  <img src="/IMG/2.png">
 
 ```python
 # Sort the Reviews as per Region
@@ -270,7 +270,7 @@ sns.despine()
 ```
 
 <p align="center">
-  <img src="/IMG/2.png">
+  <img src="/IMG/3.png">
 
 Through the 2 bar charts above, we see that Kiev is the city with the highest Rating and Lviv is the city with the highest Reviews.
 
@@ -294,7 +294,7 @@ sns.despine()
 ```
 
 <p align="center">
-  <img src="/IMG/3.png">
+  <img src="/IMG/4.png">
 
 As We can look at the upper bar graph We can easily see that Coffee shop is the most popular in Ukraine, Also Cafe then Espresso bar.
 
@@ -316,7 +316,7 @@ sns.despine()
 ```
 
 <p align="center">
-  <img src="/IMG/4.png">
+  <img src="/IMG/5.png">
 
 In the Bar graph present above we can easily see that Chocolate shop and Europe restaurant are getting most number of reviews with respect to Dine in option 
 
@@ -340,7 +340,7 @@ plt.title("No Of Reviews According To Place Type With Respect To Takeout option"
 sns.despine()
 ```
 <p align="center">
-  <img src="/IMG/5.png">
+  <img src="/IMG/6.png">
 
 In the Bar graph present above We can easily see that Chocolate shop and Pastry shop are getting most number of reivews when Takeout option is available 
 
@@ -400,7 +400,7 @@ ax2.set_ylabel("Number of shop")# y axis show the Number of shop
 
 ```
 <p align="center">
-  <img src="/IMG/6.png">
+  <img src="/IMG/7.png">
 
 As we can see in the chart above, Khrivoy Rog and Mariupol are the two cities with the most stores with all options. Followed by Lviv and Dnipro 2nd most.
 
