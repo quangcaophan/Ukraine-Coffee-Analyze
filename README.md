@@ -59,7 +59,7 @@ df.head(10)
 |Mariupol|	Dim Kavu                |	Coffee store|	4.6   |	206.0  |	NaN   |	NaN            |  NaN	          |NaN            |
 |Mariupol|	Коферум                 |	Cafe        |	5.0   |	24.0   |	$$    |	False          |	NaN	          |True           |
 |Mariupol|	Кофейня Світ Чаю        |	Coffee shop |	5.0   |	11.0   |	NaN   |	NaN            |	NaN	          |True           |
-|Mariupol|	Кофейня| Starcoff       |	Coffee shop |	4.4   |	331.0  |	$$    |	False          |	True          |	True          |
+|Mariupol|	Кофейня  Starcoff       |	Coffee shop |	4.4   |	331.0  |	$$    |	False          |	True          |	True          |
 |Mariupol|	Кофейня "Friend Zone"   |	Coffee shop |	5.0   |	12.0   |	NaN   |	NaN            |	True	        |True           |
 |Mariupol|	Racers Coffee Shop      |	Espresso bar|	4.6   |	367.0  |	$$    |	False          |	True          |	True          |
 |Mariupol|	Займемся Кофе           |	Coffee shop |	4.6   |	200.0  |	$$    |	False	         |  True          |	True          |
