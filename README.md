@@ -270,7 +270,7 @@ sns.despine()
 ```
 
 <p align="center">
-  <img src="/IMG/*missing*.png">
+  <img src="/IMG/7.png">
 
 Through the 2 bar charts above, we see that Kiev is the city with the highest Rating and Lviv is the city with the highest Reviews.
 
